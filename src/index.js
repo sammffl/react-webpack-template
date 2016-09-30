@@ -1,7 +1,3 @@
-/**
- * Created by lixiaoxi on 16/6/7.
- * @description
- */
 import React ,{ Component } from 'react'
 import ReactDOM,{ render } from 'react-dom'
 // import Root from 'containers/Root'

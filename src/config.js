@@ -1,7 +1,3 @@
-/**
- * Created by lixiaoxi on 16/7/4.
- * @description   配置文件, 项目用到的配置项,如环境, 加密相关,
- */
 const RsaKey = '';
 const Domains = {
     mock: '/',
